@@ -1,6 +1,5 @@
-                                                                                  # Hi 👋, I'm Bhavya Sri
-
-                                                                💻 A Passionate Frontend & Full Stack Developer from India  
+                                                                                  # Hi 👋, I'm Bhavya Sr
+💻 A Passionate Frontend & Full Stack Developer from India  
 
 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
 📚 Exploring **HTML, CSS, JavaScript, React.js, and Backend development**  
