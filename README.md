@@ -24,5 +24,5 @@
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/bhavyasri28/)  
-- [Portfolio Website](https://your-portfolio-link.vercel.app)  
+- [Portfolio Website](https://bhavya695.github.io/portfolio-website/)  
 
