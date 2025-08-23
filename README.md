@@ -1,4 +1,4 @@
-                                                          # Hi 👋, I'm Bhavya Sr
+                                                         Hi 👋, I'm Bhavya Sr
 💻 A Passionate Frontend & Full Stack Developer from India  
 
 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
