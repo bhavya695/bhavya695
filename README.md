@@ -15,8 +15,8 @@
 ---
 
 ## 📂 Projects
-- 🔑 [Random Password Generator](https://github.com/bhavya695/password-generator)  
-- 🧮 [Calculator Project](https://github.com/bhavya695/calculator-project)  
+- 🔑 [Random Password Generator](https://randompasswords-generator.netlify.app/)  
+- 🧮 [Calculator Project](https://calculatorwebsite-project.netlify.app/)  
 - 🍴 [Online Briyani Website](https://github.com/bhavya695/onlineBriyani-website)  
 
 
@@ -24,5 +24,5 @@
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/bhavyasri28/)  
-- [Portfolio Website](https://bhavya695.github.io/portfolio-website/)  
+- [Portfolio Website](https://portfolio-web-site-project1.netlify.app/)  
 
